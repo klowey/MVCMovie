@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/WpfApplication1
+/ConsoleApplication3
+/ConsoleApplication2
+/MVCDemo.Original
+/MVCMovie/MVC-Movie/
+/Repo/
+/ConsoleApplication1
